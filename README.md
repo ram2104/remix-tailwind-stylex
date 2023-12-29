@@ -1,8 +1,10 @@
 # Welcome to Remix with Tailwind & StyleX!
 
 - [Remix Docs](https://remix.run/docs)
+- [Remix Vite Docs](https://remix.run/docs/en/main/future/vite)
 - [Tailwind Docs](https://tailwindcss.com)
 - [StyleX](https://stylexjs.com)
+- [CSS Layer](https://developer.mozilla.org/en-US/docs/Web/CSS/@layer)
 
 ## Installtion
 
