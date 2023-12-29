@@ -1,0 +1,10 @@
+{
+  "recommendations": [
+    "dbaeumer.vscode-eslint",
+    "esbenp.prettier-vscode",
+    "unifiedjs.vscode-mdx",
+    "SonarSource.sonarlint-vscode",
+    "redhat.vscode-yaml",
+    "bradlc.vscode-tailwindcss"
+  ]
+}

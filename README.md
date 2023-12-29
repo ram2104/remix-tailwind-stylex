@@ -1,13 +1,23 @@
-# Welcome to Remix!
+# Welcome to Remix with Tailwind & StyleX!
 
 - [Remix Docs](https://remix.run/docs)
+- [Tailwind Docs](https://tailwindcss.com)
+- [StyleX](https://stylexjs.com)
+
+## Installtion
+
+From your terminal:
+
+```sh
+yarn install
+```
 
 ## Development
 
 From your terminal:
 
 ```sh
-npm run dev
+yarn dev
 ```
 
 This starts your app in development mode, rebuilding assets on file changes.
@@ -17,13 +27,13 @@ This starts your app in development mode, rebuilding assets on file changes.
 First, build your app for production:
 
 ```sh
-npm run build
+yarn build
 ```
 
 Then run the app in production mode:
 
 ```sh
-npm start
+yarn start
 ```
 
 Now you'll need to pick a host to deploy it to.
